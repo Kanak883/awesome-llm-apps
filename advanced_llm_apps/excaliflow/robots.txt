@@ -3,3 +3,14 @@ Allow: /
 
 User-agent: OAI-SearchBot
 Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://excaliflow.flow-sketch.workers.dev/sitemap.xml
